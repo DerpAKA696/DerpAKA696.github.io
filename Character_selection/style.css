@@ -1,0 +1,43 @@
+h2 {
+    font-size: 6em;
+    /* letter-spacing: 15px; */
+    position: absolute;
+    color: #ffffff;
+    text-transform: uppercase;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    /* position: absolute; */
+    /* color: white; */
+    display: flex;
+
+    top: 290px;
+    right: 0;
+    bottom: 60px;
+    left: 0;
+
+    line-height: 0.7em;
+    outline: none;
+    animation: animate 5s linear infinite;
+}
+/* @keyframes animate
+{
+    0%
+    {
+        color: aqua;
+        box-shadow: none;
+    }
+    100%
+    {
+        color: #fff;
+        box-shadow: 0 0 10px #03bcf4,
+        0 0 20px #03bcf4
+        0 0 40px #03bcf4
+        0 0 80px #03bcf4
+        0 0 160px #03bcf4
+
+        
+        ;
+
+    }
+} */
